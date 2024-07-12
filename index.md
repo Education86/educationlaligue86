@@ -1,8 +1,6 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
-
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+« L’ÉDUCATION EST L’ARME LA PLUS PUISSANTE QUE L’ON PUISSE UTILISER POUR CHANGER LE MONDE. » - NELSON MANDELA 
